@@ -4,3 +4,4 @@
 
 print("I am a beginner with Git")
 print("This is the 2nd print command!")
+print("Here is the changed code, I will use it for stashing")
