@@ -4,4 +4,4 @@
 
 print("I am a beginner with Git")
 print("This is the 2nd print command!")
-print("Code changed in develpoment branch")
+print("This is the extra code line for merging!")
